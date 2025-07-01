@@ -17,14 +17,6 @@ An interactive, customizable, multi-page map application built with **React.js**
 
 ---
 
-## 📸 Screenshots
-
-| Map View                                 | Settings Panel                                     |
-| ---------------------------------------- | -------------------------------------------------- |
-| ![map screenshot](./screenshots/map.png) | ![settings screenshot](./screenshots/settings.png) |
-
----
-
 ## 📂 Project Structure
 
 React_Map_App/
